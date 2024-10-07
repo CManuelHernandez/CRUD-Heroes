@@ -3,8 +3,6 @@ import {
   ActivatedRouteSnapshot,
   CanActivate,
   CanMatch,
-  GuardResult,
-  MaybeAsync,
   Route,
   Router,
   RouterStateSnapshot,
